@@ -23,7 +23,7 @@ createServer({
         title:'Lanche',
         type:'withdraw',
         category:'Alimentação',
-        amount:-22,
+        amount:22,
         createdAt:new Date('2021-02-12 9:00:00')
       },
     ]
